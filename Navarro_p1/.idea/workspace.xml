@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08e2bfe-c7c9-4aa0-9b5b-3a07677f927f" name="Default Changelist" comment="" />
+    <list default="true" id="7a44a5cd-e960-4303-8014-dd5164de74aa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SRAjigI2Z17X84lbY61J4UVJmn" />
+  <component name="ProjectId" id="1T4FFlVjScDfcTYm8RPDC6mMqEE" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,8 +29,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Navarro_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Navarro_p1" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Navarro_p1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -38,7 +38,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Navarro_p1" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -47,11 +47,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b08e2bfe-c7c9-4aa0-9b5b-3a07677f927f" name="Default Changelist" comment="" />
-      <created>1571516171418</created>
+      <changelist id="7a44a5cd-e960-4303-8014-dd5164de74aa" name="Default Changelist" comment="" />
+      <created>1572711359969</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571516171418</updated>
+      <updated>1572711359969</updated>
     </task>
     <servers />
   </component>

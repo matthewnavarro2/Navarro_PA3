@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32d274f2-6a53-47bf-a485-3707f7bbe796" name="Default Changelist" comment="" />
+    <list default="true" id="f28cbc94-9c29-4946-9893-3f94371f8fe7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SRfZ6l2cjSR8Ow2Q91X5WbWziQ" />
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="ProjectId" id="1T4dlxciMDw8WDqhMqA111iQdhI" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -34,8 +29,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccount" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Navarro_p2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -43,7 +38,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SavingsAccount" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -52,11 +47,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32d274f2-6a53-47bf-a485-3707f7bbe796" name="Default Changelist" comment="" />
-      <created>1571531382043</created>
+      <changelist id="f28cbc94-9c29-4946-9893-3f94371f8fe7" name="Default Changelist" comment="" />
+      <created>1572723456685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571531382043</updated>
+      <updated>1572723456685</updated>
     </task>
     <servers />
   </component>
